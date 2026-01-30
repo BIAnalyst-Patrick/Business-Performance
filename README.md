@@ -8,6 +8,7 @@
 ### Executive Summary: 2025 Performance at a Crossroads  
 
 The business concluded 2025 with **total revenue of $1.75M** and a solid **overall profit margin of 16.4%**, demonstrating a fundamentally viable operating model. However, a **13.7% decline in month-over-month revenue** in the latest period signals a cooling momentum that warrants immediate attention. While the year was profitable, the final quarter reveals underlying risks: **margin compression during peak revenue periods** and a potential over-reliance on promotional volume. This report unpacks the drivers behind these trends and provides actionable recommendations to safeguard profitability in 2026.
+<img width="1041" height="691" alt="Sales and profitability Dashboard" src="https://github.com/user-attachments/assets/93f3dd4d-ed71-460f-8580-89118719c3e8" />
 
 ---
 
