@@ -1,7 +1,12 @@
-**To:** Senior Management  
-**From:** Strategic Analysis Team  
-**Date:** January 26, 2026  
-**Subject:** 2025 Performance Analysis & Strategic Insights  
+# Executive KPI & Margin Dashboard: 2025 Performance Analysis
+
+**Industry**: Retail / E-commerce
+**Tools**: Power BI, Excel
+
+**To:** Senior Management
+**From:** Strategic Analysis Team
+**Date:** January 26, 2026
+**Subject:** 2025 Performance Analysis & Strategic Insights
 
 ---
 
@@ -92,6 +97,14 @@ The **top 20% of products account for only 30.9% of total profit**, well below t
 2025 was a year of **strong revenue but emerging margin pressure**. The business stands at a point where **targeted operational adjustments**—not wholesale strategy shifts—can protect and enhance profitability. By focusing on **cost control in high-volume categories** and **intelligently promoting high-margin items**, leadership can stabilize growth while improving the quality of earnings.
 
 ---
-**Prepared for:** Yearly Business Review  
-**Data Source:** Transaction-level sales, 2025  
-**Dashboard Files:** Available in CSV format for Power BI load  
+**Prepared for:** Yearly Business Review
+**Data Source:** Transaction-level sales, 2025
+**Dashboard Files:** Available in CSV format for Power BI load
+
+---
+
+## 👤 Author
+
+**Analyst:** Patrick Mwangi Gichuki
+**Portfolio:** [https://gichuki.site](https://gichuki.site)
+**LinkedIn:** [https://linkedin.com/in/patrick-gichuki-datascientist](https://linkedin.com/in/patrick-gichuki-datascientist)
