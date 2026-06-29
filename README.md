@@ -107,4 +107,4 @@ The **top 20% of products account for only 30.9% of total profit**, well below t
 
 **Analyst:** Patrick Mwangi Gichuki
 **Portfolio:** [https://gichuki.site](https://gichuki.site)
-**LinkedIn:** [https://linkedin.com/in/patrick-gichuki-datascientist](https://linkedin.com/in/patrick-gichuki-datascientist)
+**LinkedIn:** [https://www.linkedin.com/in/patrick-gichuki-the-bi-analyst](https://www.linkedin.com/in/patrick-gichuki-the-bi-analyst)
