@@ -92,13 +92,46 @@ The **top 20% of products account for only 30.9% of total profit**, well below t
 
 ---
 
+### 7. The decisions this dashboard supports
+
+Each page exists to settle one decision — a dashboard without a decision attached is decoration:
+
+| Decision | What the dashboard shows | Where it lands |
+|----------|--------------------------|-----------------|
+| Is December's −13.7% MoM a seasonal dip or a demand shift? | Monthly revenue against the November spike, with the margin trend beside it | The Q1 2026 investigation brief |
+| Where does the next point of margin come from — cost or price? | Product profitability: Electronics carry absolute profit at ~8.9% margin; Wallets run 51.6% | A 1–2% unit-cost program for Laptops and Smartphones |
+| Which SKUs get promoted next? | The revenue × margin split per product type | Upsell campaigns for Wallets, Bags, T-Shirts |
+| When does promotion monitoring tighten? | High-revenue months running at their lowest margin (~14% in November) | Fraud and promotion controls during peak periods |
+| Which customers get proactive retention? | Profit concentration across accounts (no single-customer dependence) | Customer tiering; review of low-profit, high-transaction accounts |
+
+### About the data, and how each measure is calculated
+
+**Data source.** [`sales_data.csv`](sales_data.csv) — **3,000 transaction lines for
+FY2025**, one row per order line: transaction id and date, customer id, name and region,
+product id, name and category, quantity, unit price and unit cost. It is the analysis
+dataset for this case study — **no client data appears in this repository**. Every figure
+in this report is computed from this file rather than typed in, and each is what the
+analysis produced on this dataset, not a measured business outcome.
+
+**Measure definitions** — the ones a finance reader will ask about:
+
+| Measure | Definition |
+|---------|------------|
+| Revenue | Σ quantity × unit price across all transaction lines |
+| COGS | Σ quantity × unit cost |
+| Profit | Revenue − COGS |
+| Overall margin | Profit ÷ revenue — 16.44% for 2025 on this file |
+| MoM growth | Latest month's revenue against the previous month's — the −13.68% is December vs November |
+| Pareto concentration | Share of total profit from the top 20% of products ranked by profit (30.9%) |
+
+---
+
 ### Final Takeaway  
 
 2025 was a year of **strong revenue but emerging margin pressure**. The business stands at a point where **targeted operational adjustments**—not wholesale strategy shifts—can protect and enhance profitability. By focusing on **cost control in high-volume categories** and **intelligently promoting high-margin items**, leadership can stabilize growth while improving the quality of earnings.
 
 ---
-**Prepared for:** Yearly Business Review
-**Data Source:** Transaction-level sales, 2025
+**Prepared for:** Yearly Business Review**Data Source:** [`sales_data.csv`](sales_data.csv) — 3,000 transaction lines, FY2025 (see *About the data* above)  
 **Dashboard Files:** Available in CSV format for Power BI load
 
 ---
