@@ -131,7 +131,8 @@ analysis produced on this dataset, not a measured business outcome.
 2025 was a year of **strong revenue but emerging margin pressure**. The business stands at a point where **targeted operational adjustments**—not wholesale strategy shifts—can protect and enhance profitability. By focusing on **cost control in high-volume categories** and **intelligently promoting high-margin items**, leadership can stabilize growth while improving the quality of earnings.
 
 ---
-**Prepared for:** Yearly Business Review**Data Source:** [`sales_data.csv`](sales_data.csv) — 3,000 transaction lines, FY2025 (see *About the data* above)  
+**Prepared for:** Yearly Business Review  
+**Data Source:** [`sales_data.csv`](sales_data.csv) — 3,000 transaction lines, FY2025 (see *About the data* above)  
 **Dashboard Files:** Available in CSV format for Power BI load
 
 ---
